@@ -1,6 +1,0 @@
-{{#user}
-Name: Shavez Ahmed
-Skills: HTML, CSS, JS,C language, React.js(beginner),Bootstrap(beginner)
-Education: Becholer's of Computer Application(BCA) , Maharshi Dayanand University (MDU)
-Email: ahmedshavez55@gmail.com
-{{/user}}
